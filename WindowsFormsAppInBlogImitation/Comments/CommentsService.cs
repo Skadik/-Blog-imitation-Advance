@@ -19,5 +19,7 @@ namespace WindowsFormsAppInBlogImitation.Comments
         {
             comments.Remove(comments.Find(comment => comment.getID() == commentID));
         }
+
+        public List<Comment> getComments() => comments;
     }
 }

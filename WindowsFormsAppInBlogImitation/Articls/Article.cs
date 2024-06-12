@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Drawing;
-using System.Linq;
-using System.Text;
+﻿using System.Collections.Generic;
 using WindowsFormsAppInBlogImitation.Comments;
 
 namespace WindowsFormsAppInBlogImitation.Blogs
@@ -14,14 +10,22 @@ namespace WindowsFormsAppInBlogImitation.Blogs
         private string title;
         private string userName;
         private string description;
-        private List<Comment> comments;
+        private CommentsService comments;
+
+        public string getUserName() => userName;
+        public string getDescription() => description;
+        public string getTitle() => title;
+        public int getArticleID() => ID;
+
+        public CommentsService getCommentsService() => comments;
 
         public Article(string title, string userName,string description)
         {
-            this.ID = countID;
+            this.ID = countID++;
             this.title = title;
             this.userName = userName;
             this.description = description;
+            this.comments = new CommentsService();
         }
     }
 }

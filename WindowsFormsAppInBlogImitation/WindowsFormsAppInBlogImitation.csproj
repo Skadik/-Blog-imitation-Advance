@@ -35,6 +35,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -48,8 +49,15 @@
   <ItemGroup>
     <Compile Include="Articls\Article.cs" />
     <Compile Include="Blogs\Blog.cs" />
+    <Compile Include="ChoiceArticle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChoiceArticle.Designer.cs">
+      <DependentUpon>ChoiceArticle.cs</DependentUpon>
+    </Compile>
     <Compile Include="Comments\Comment.cs" />
     <Compile Include="Comments\CommentsService.cs" />
+    <Compile Include="CreatorForShowArticle\Creator.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -58,8 +66,20 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ShowArticle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowArticle.Designer.cs">
+      <DependentUpon>ShowArticle.cs</DependentUpon>
+    </Compile>
     <Compile Include="Users\User.cs" />
     <Compile Include="Users\UserService.cs" />
+    <EmbeddedResource Include="ChoiceArticle.resx">
+      <DependentUpon>ChoiceArticle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -69,6 +89,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="ShowArticle.resx">
+      <DependentUpon>ShowArticle.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

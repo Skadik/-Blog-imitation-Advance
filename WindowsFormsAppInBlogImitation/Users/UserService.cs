@@ -4,15 +4,15 @@ namespace WindowsFormsAppInBlogImitation.Users
 {
     public class UserService
     {
-        List<User> users;
+        private static List<User> users;
         public UserService()
         {
             users = new List<User>();
         }
 
-        public void createUser(string userName,string email,string userPassword)
+        public void createUser(string userName,string userPassword, string email)
         {
-            users.Add(new User(userName,email,userPassword));
+            users.Add(new User(userName, userPassword,email));
         }
 
         public void deleteUser(int userID)

@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace WindowsFormsAppInBlogImitation
@@ -14,9 +11,17 @@ namespace WindowsFormsAppInBlogImitation
         [STAThread]
         static void Main()
         {
-            Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            try
+            {
+                Application.EnableVisualStyles();
+                Application.SetCompatibleTextRenderingDefault(false);
+                Application.Run(new Form1());
+                Application.Run(new ChoiceArticle());
+            }
+            catch (ArgumentException ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
         }
     }
 }

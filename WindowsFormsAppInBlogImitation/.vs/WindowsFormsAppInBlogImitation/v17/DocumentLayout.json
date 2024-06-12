@@ -1,34 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\VS C# and C\u002B\u002B projekt\\BlogImitation\\WindowsFormsAppInBlogImitation\\",
+  "WorkspaceRootPath": "E:\\VS C# and C\u002B\u002B projekt\\BlogImitation\\-Blog-imitation-Advance\\WindowsFormsAppInBlogImitation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{28243950-A229-418D-9F5E-62B5721DB369}|WindowsFormsAppInBlogImitation.csproj|e:\\vs c# and c\u002B\u002B projekt\\blogimitation\\windowsformsappinblogimitation\\comments\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28243950-A229-418D-9F5E-62B5721DB369}|WindowsFormsAppInBlogImitation.csproj|solutionrelative:comments\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28243950-A229-418D-9F5E-62B5721DB369}|WindowsFormsAppInBlogImitation.csproj|E:\\VS C# and C\u002B\u002B projekt\\BlogImitation\\WindowsFormsAppInBlogImitation\\articls\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28243950-A229-418D-9F5E-62B5721DB369}|WindowsFormsAppInBlogImitation.csproj|solutionrelative:articls\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28243950-A229-418D-9F5E-62B5721DB369}|WindowsFormsAppInBlogImitation.csproj|E:\\VS C# and C\u002B\u002B projekt\\BlogImitation\\WindowsFormsAppInBlogImitation\\blogs\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28243950-A229-418D-9F5E-62B5721DB369}|WindowsFormsAppInBlogImitation.csproj|solutionrelative:blogs\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28243950-A229-418D-9F5E-62B5721DB369}|WindowsFormsAppInBlogImitation.csproj|E:\\VS C# and C\u002B\u002B projekt\\BlogImitation\\WindowsFormsAppInBlogImitation\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28243950-A229-418D-9F5E-62B5721DB369}|WindowsFormsAppInBlogImitation.csproj|solutionrelative:users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28243950-A229-418D-9F5E-62B5721DB369}|WindowsFormsAppInBlogImitation.csproj|E:\\VS C# and C\u002B\u002B projekt\\BlogImitation\\WindowsFormsAppInBlogImitation\\comments\\commentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28243950-A229-418D-9F5E-62B5721DB369}|WindowsFormsAppInBlogImitation.csproj|solutionrelative:comments\\commentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28243950-A229-418D-9F5E-62B5721DB369}|WindowsFormsAppInBlogImitation.csproj|E:\\VS C# and C\u002B\u002B projekt\\BlogImitation\\WindowsFormsAppInBlogImitation\\users\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{28243950-A229-418D-9F5E-62B5721DB369}|WindowsFormsAppInBlogImitation.csproj|e:\\vs c# and c\u002B\u002B projekt\\blogimitation\\-blog-imitation-advance\\windowsformsappinblogimitation\\users\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28243950-A229-418D-9F5E-62B5721DB369}|WindowsFormsAppInBlogImitation.csproj|solutionrelative:users\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28243950-A229-418D-9F5E-62B5721DB369}|WindowsFormsAppInBlogImitation.csproj|E:\\VS C# and C\u002B\u002B projekt\\BlogImitation\\WindowsFormsAppInBlogImitation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{28243950-A229-418D-9F5E-62B5721DB369}|WindowsFormsAppInBlogImitation.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{28243950-A229-418D-9F5E-62B5721DB369}|WindowsFormsAppInBlogImitation.csproj|E:\\VS C# and C\u002B\u002B projekt\\BlogImitation\\-Blog-imitation-Advance\\WindowsFormsAppInBlogImitation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28243950-A229-418D-9F5E-62B5721DB369}|WindowsFormsAppInBlogImitation.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28243950-A229-418D-9F5E-62B5721DB369}|WindowsFormsAppInBlogImitation.csproj|E:\\VS C# and C\u002B\u002B projekt\\BlogImitation\\-Blog-imitation-Advance\\WindowsFormsAppInBlogImitation\\blogs\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28243950-A229-418D-9F5E-62B5721DB369}|WindowsFormsAppInBlogImitation.csproj|solutionrelative:blogs\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28243950-A229-418D-9F5E-62B5721DB369}|WindowsFormsAppInBlogImitation.csproj|E:\\VS C# and C\u002B\u002B projekt\\BlogImitation\\-Blog-imitation-Advance\\WindowsFormsAppInBlogImitation\\showarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28243950-A229-418D-9F5E-62B5721DB369}|WindowsFormsAppInBlogImitation.csproj|solutionrelative:showarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28243950-A229-418D-9F5E-62B5721DB369}|WindowsFormsAppInBlogImitation.csproj|e:\\vs c# and c\u002B\u002B projekt\\blogimitation\\-blog-imitation-advance\\windowsformsappinblogimitation\\showarticle.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28243950-A229-418D-9F5E-62B5721DB369}|WindowsFormsAppInBlogImitation.csproj|solutionrelative:showarticle.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28243950-A229-418D-9F5E-62B5721DB369}|WindowsFormsAppInBlogImitation.csproj|E:\\VS C# and C\u002B\u002B projekt\\BlogImitation\\-Blog-imitation-Advance\\WindowsFormsAppInBlogImitation\\creatorforshowarticle\\creator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28243950-A229-418D-9F5E-62B5721DB369}|WindowsFormsAppInBlogImitation.csproj|solutionrelative:creatorforshowarticle\\creator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28243950-A229-418D-9F5E-62B5721DB369}|WindowsFormsAppInBlogImitation.csproj|E:\\VS C# and C\u002B\u002B projekt\\BlogImitation\\-Blog-imitation-Advance\\WindowsFormsAppInBlogImitation\\showarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28243950-A229-418D-9F5E-62B5721DB369}|WindowsFormsAppInBlogImitation.csproj|solutionrelative:showarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28243950-A229-418D-9F5E-62B5721DB369}|WindowsFormsAppInBlogImitation.csproj|E:\\VS C# and C\u002B\u002B projekt\\BlogImitation\\-Blog-imitation-Advance\\WindowsFormsAppInBlogImitation\\choicearticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28243950-A229-418D-9F5E-62B5721DB369}|WindowsFormsAppInBlogImitation.csproj|solutionrelative:choicearticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28243950-A229-418D-9F5E-62B5721DB369}|WindowsFormsAppInBlogImitation.csproj|E:\\VS C# and C\u002B\u002B projekt\\BlogImitation\\-Blog-imitation-Advance\\WindowsFormsAppInBlogImitation\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28243950-A229-418D-9F5E-62B5721DB369}|WindowsFormsAppInBlogImitation.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28243950-A229-418D-9F5E-62B5721DB369}|WindowsFormsAppInBlogImitation.csproj|E:\\VS C# and C\u002B\u002B projekt\\BlogImitation\\-Blog-imitation-Advance\\WindowsFormsAppInBlogImitation\\articls\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28243950-A229-418D-9F5E-62B5721DB369}|WindowsFormsAppInBlogImitation.csproj|solutionrelative:articls\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28243950-A229-418D-9F5E-62B5721DB369}|WindowsFormsAppInBlogImitation.csproj|E:\\VS C# and C\u002B\u002B projekt\\BlogImitation\\-Blog-imitation-Advance\\WindowsFormsAppInBlogImitation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28243950-A229-418D-9F5E-62B5721DB369}|WindowsFormsAppInBlogImitation.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,87 +58,145 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "E:\\VS C# and C\u002B\u002B projekt\\BlogImitation\\WindowsFormsAppInBlogImitation\\Users\\UserService.cs",
-              "RelativeDocumentMoniker": "Users\\UserService.cs",
-              "ToolTip": "E:\\VS C# and C\u002B\u002B projekt\\BlogImitation\\WindowsFormsAppInBlogImitation\\Users\\UserService.cs",
-              "RelativeToolTip": "Users\\UserService.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAAZAAAA",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VS C# and C\u002B\u002B projekt\\BlogImitation\\-Blog-imitation-Advance\\WindowsFormsAppInBlogImitation\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\VS C# and C\u002B\u002B projekt\\BlogImitation\\-Blog-imitation-Advance\\WindowsFormsAppInBlogImitation\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T08:13:34.018Z"
+              "WhenOpened": "2024-06-09T10:58:05.708Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CommentsService.cs",
-              "DocumentMoniker": "E:\\VS C# and C\u002B\u002B projekt\\BlogImitation\\WindowsFormsAppInBlogImitation\\Comments\\CommentsService.cs",
-              "RelativeDocumentMoniker": "Comments\\CommentsService.cs",
-              "ToolTip": "E:\\VS C# and C\u002B\u002B projekt\\BlogImitation\\WindowsFormsAppInBlogImitation\\Comments\\CommentsService.cs",
-              "RelativeToolTip": "Comments\\CommentsService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABRAAAA",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\VS C# and C\u002B\u002B projekt\\BlogImitation\\-Blog-imitation-Advance\\WindowsFormsAppInBlogImitation\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\VS C# and C\u002B\u002B projekt\\BlogImitation\\-Blog-imitation-Advance\\WindowsFormsAppInBlogImitation\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T07:53:49.765Z"
+              "WhenOpened": "2024-06-09T14:44:18.306Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Comment.cs",
-              "DocumentMoniker": "E:\\VS C# and C\u002B\u002B projekt\\BlogImitation\\WindowsFormsAppInBlogImitation\\Comments\\Comment.cs",
-              "RelativeDocumentMoniker": "Comments\\Comment.cs",
-              "ToolTip": "E:\\VS C# and C\u002B\u002B projekt\\BlogImitation\\WindowsFormsAppInBlogImitation\\Comments\\Comment.cs",
-              "RelativeToolTip": "Comments\\Comment.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAPAAAA",
+              "Title": "UserService.cs",
+              "DocumentMoniker": "E:\\VS C# and C\u002B\u002B projekt\\BlogImitation\\-Blog-imitation-Advance\\WindowsFormsAppInBlogImitation\\Users\\UserService.cs",
+              "RelativeDocumentMoniker": "Users\\UserService.cs",
+              "ToolTip": "E:\\VS C# and C\u002B\u002B projekt\\BlogImitation\\-Blog-imitation-Advance\\WindowsFormsAppInBlogImitation\\Users\\UserService.cs",
+              "RelativeToolTip": "Users\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T07:20:53.531Z",
+              "WhenOpened": "2024-06-12T06:22:28.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChoiceArticle.cs",
+              "DocumentMoniker": "E:\\VS C# and C\u002B\u002B projekt\\BlogImitation\\-Blog-imitation-Advance\\WindowsFormsAppInBlogImitation\\ChoiceArticle.cs",
+              "RelativeDocumentMoniker": "ChoiceArticle.cs",
+              "ToolTip": "E:\\VS C# and C\u002B\u002B projekt\\BlogImitation\\-Blog-imitation-Advance\\WindowsFormsAppInBlogImitation\\ChoiceArticle.cs",
+              "RelativeToolTip": "ChoiceArticle.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T10:22:44.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Creator.cs",
+              "DocumentMoniker": "E:\\VS C# and C\u002B\u002B projekt\\BlogImitation\\-Blog-imitation-Advance\\WindowsFormsAppInBlogImitation\\CreatorForShowArticle\\Creator.cs",
+              "RelativeDocumentMoniker": "CreatorForShowArticle\\Creator.cs",
+              "ToolTip": "E:\\VS C# and C\u002B\u002B projekt\\BlogImitation\\-Blog-imitation-Advance\\WindowsFormsAppInBlogImitation\\CreatorForShowArticle\\Creator.cs",
+              "RelativeToolTip": "CreatorForShowArticle\\Creator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T07:36:39.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShowArticle.Designer.cs",
+              "DocumentMoniker": "E:\\VS C# and C\u002B\u002B projekt\\BlogImitation\\-Blog-imitation-Advance\\WindowsFormsAppInBlogImitation\\ShowArticle.Designer.cs",
+              "RelativeDocumentMoniker": "ShowArticle.Designer.cs",
+              "ToolTip": "E:\\VS C# and C\u002B\u002B projekt\\BlogImitation\\-Blog-imitation-Advance\\WindowsFormsAppInBlogImitation\\ShowArticle.Designer.cs",
+              "RelativeToolTip": "ShowArticle.Designer.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAowGcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T07:01:58.756Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "User.cs",
-              "DocumentMoniker": "E:\\VS C# and C\u002B\u002B projekt\\BlogImitation\\WindowsFormsAppInBlogImitation\\Users\\User.cs",
-              "RelativeDocumentMoniker": "Users\\User.cs",
-              "ToolTip": "E:\\VS C# and C\u002B\u002B projekt\\BlogImitation\\WindowsFormsAppInBlogImitation\\Users\\User.cs",
-              "RelativeToolTip": "Users\\User.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCIAAAAfAAAA",
+              "Title": "ShowArticle.cs",
+              "DocumentMoniker": "E:\\VS C# and C\u002B\u002B projekt\\BlogImitation\\-Blog-imitation-Advance\\WindowsFormsAppInBlogImitation\\ShowArticle.cs",
+              "RelativeDocumentMoniker": "ShowArticle.cs",
+              "ToolTip": "E:\\VS C# and C\u002B\u002B projekt\\BlogImitation\\-Blog-imitation-Advance\\WindowsFormsAppInBlogImitation\\ShowArticle.cs",
+              "RelativeToolTip": "ShowArticle.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwBoAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T07:20:35.731Z"
+              "WhenOpened": "2024-06-11T06:18:53.554Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Article.cs",
-              "DocumentMoniker": "E:\\VS C# and C\u002B\u002B projekt\\BlogImitation\\WindowsFormsAppInBlogImitation\\Articls\\Article.cs",
-              "RelativeDocumentMoniker": "Articls\\Article.cs",
-              "ToolTip": "E:\\VS C# and C\u002B\u002B projekt\\BlogImitation\\WindowsFormsAppInBlogImitation\\Articls\\Article.cs",
-              "RelativeToolTip": "Articls\\Article.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAIAAAA",
+              "DocumentIndex": 8,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\VS C# and C\u002B\u002B projekt\\BlogImitation\\-Blog-imitation-Advance\\WindowsFormsAppInBlogImitation\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "E:\\VS C# and C\u002B\u002B projekt\\BlogImitation\\-Blog-imitation-Advance\\WindowsFormsAppInBlogImitation\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T07:18:50.074Z"
+              "WhenOpened": "2024-06-09T14:14:54.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShowArticle.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\VS C# and C\u002B\u002B projekt\\BlogImitation\\-Blog-imitation-Advance\\WindowsFormsAppInBlogImitation\\ShowArticle.cs",
+              "RelativeDocumentMoniker": "ShowArticle.cs",
+              "ToolTip": "E:\\VS C# and C\u002B\u002B projekt\\BlogImitation\\-Blog-imitation-Advance\\WindowsFormsAppInBlogImitation\\ShowArticle.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ShowArticle.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T06:38:45.537Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Blog.cs",
-              "DocumentMoniker": "E:\\VS C# and C\u002B\u002B projekt\\BlogImitation\\WindowsFormsAppInBlogImitation\\Blogs\\Blog.cs",
+              "DocumentMoniker": "E:\\VS C# and C\u002B\u002B projekt\\BlogImitation\\-Blog-imitation-Advance\\WindowsFormsAppInBlogImitation\\Blogs\\Blog.cs",
               "RelativeDocumentMoniker": "Blogs\\Blog.cs",
-              "ToolTip": "E:\\VS C# and C\u002B\u002B projekt\\BlogImitation\\WindowsFormsAppInBlogImitation\\Blogs\\Blog.cs",
+              "ToolTip": "E:\\VS C# and C\u002B\u002B projekt\\BlogImitation\\-Blog-imitation-Advance\\WindowsFormsAppInBlogImitation\\Blogs\\Blog.cs",
               "RelativeToolTip": "Blogs\\Blog.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAACAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T07:17:41.432Z"
+              "WhenOpened": "2024-06-09T07:17:41.432Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "E:\\VS C# and C\u002B\u002B projekt\\BlogImitation\\WindowsFormsAppInBlogImitation\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "E:\\VS C# and C\u002B\u002B projekt\\WindowsFormsAppInBlogImitation\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "..\\..\\WindowsFormsAppInBlogImitation\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentIndex": 9,
+              "Title": "Article.cs",
+              "DocumentMoniker": "E:\\VS C# and C\u002B\u002B projekt\\BlogImitation\\-Blog-imitation-Advance\\WindowsFormsAppInBlogImitation\\Articls\\Article.cs",
+              "RelativeDocumentMoniker": "Articls\\Article.cs",
+              "ToolTip": "E:\\VS C# and C\u002B\u002B projekt\\BlogImitation\\-Blog-imitation-Advance\\WindowsFormsAppInBlogImitation\\Articls\\Article.cs",
+              "RelativeToolTip": "Articls\\Article.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T07:05:55.989Z"
+              "WhenOpened": "2024-06-09T07:18:50.074Z"
             }
           ]
         }

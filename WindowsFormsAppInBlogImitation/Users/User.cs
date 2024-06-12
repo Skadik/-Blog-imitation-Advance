@@ -28,7 +28,7 @@
             this.name= name;
         }
 
-        public User(string name,string email,string password)
+        public User(string name,string password, string email)
         {
             ID = countID++;
             this.name = name;
