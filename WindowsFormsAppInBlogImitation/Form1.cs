@@ -15,17 +15,17 @@ namespace WindowsFormsAppInBlogImitation
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if (textBox1.Text.Trim().Length == 0)
+            if (textBox1.Text.Trim().Length == 0 || textBox1.Text.Length < 4)
             {
-                MessageBox.Show("Довжина імені дорівнює нулю");
+                MessageBox.Show("Довжина імені  маленька");
             }
-            else if (textBox2.Text.Trim().Length == 0)
+            else if (textBox2.Text.Trim().Length == 0 || textBox2.Text.Length < 8)
             {
                 MessageBox.Show("Довжина пароля дорівнює нулю");
             }
-            else if (textBox3.Text.Trim().Length == 0)
+            else if (textBox3.Text.Trim().Length == 0 )
             {
-                MessageBox.Show("Довжина пароля дорівнює нулю"); // не подобається викликати меседж бокси
+                MessageBox.Show("Довжина email null"); // не подобається викликати меседж бокси
             }
             else
             {

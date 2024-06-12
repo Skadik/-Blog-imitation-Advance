@@ -26,6 +26,7 @@ namespace WindowsFormsAppInBlogImitation.Blogs
             this.userName = userName;
             this.description = description;
             this.comments = new CommentsService();
+            comments.createComent(userName, "Ну це і діч", 4);
         }
     }
 }

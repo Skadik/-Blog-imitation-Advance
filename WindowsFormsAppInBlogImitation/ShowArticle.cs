@@ -17,7 +17,11 @@ namespace WindowsFormsAppInBlogImitation
             foreach (Article article in list)
             {
                 showArticl(article);
-            }
+                foreach (var coment in article.getCommentsService().getComments())
+                {
+                    textBox2.Text = coment.getDescription();
+                }
+            }  
             scalingAll();
         }
 
@@ -26,6 +30,11 @@ namespace WindowsFormsAppInBlogImitation
             InitializeComponent();
             textBoxs = new List<TextBox>();
             showArticl(article);
+            foreach (var coment in article.getCommentsService().getComments())
+            {
+                label3.Text = coment.getName()+"======"+ "Зірки: " + coment.getStars();
+                textBox2.Text += "\n" + coment.getDescription();
+            }
             scalingAll();
         }
 

@@ -30,6 +30,6 @@ namespace WindowsFormsAppInBlogImitation.Users
             return email;
         }
 
-        public List<User> getUsers() => users;
+        public static List<User> getUsers() => users;
     }
 }
