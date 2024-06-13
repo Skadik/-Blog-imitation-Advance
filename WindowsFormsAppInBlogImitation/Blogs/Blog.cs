@@ -6,6 +6,7 @@ namespace WindowsFormsAppInBlogImitation.Blogs
     public class Blog
     {
         private List<Article> articles;
+        private List<User> users;   
         public List<Article> getAllArticles() => articles;
 
         public Article getArticelsForID(int ArticleID)
@@ -13,18 +14,21 @@ namespace WindowsFormsAppInBlogImitation.Blogs
             return articles[ArticleID];
         }
 
+        public void setArticles(List<Article> articles)
+        {
+            this.articles = articles;
+        }
+
+        public void setUsers(List<User> users)
+        {
+            this.users = users;
+        }
+
         public Blog()
         {
-            articles = new List<Article>
-            {
-                new Article("Свен Вінке о Baldur's Gate 3, порівняннях с CD Projekt та майбутнє студії",UserService.getUsers()[0].getName(),"https://youtu.be/MW846h6FyU4"),
-                new Article("Свен Вінке о Baldur's Gate 3, порівняннях с CD Projekt та майбутнє студії","Robert Purchese","https://youtu.be/MW846h6FyU4"),
-                new Article("Свен Вінке о Baldur's Gate 3, порівняннях с CD Projekt та майбутнє студії","Robert Purchese","https://youtu.be/MW846h6FyU4"),
-                new Article("Свен Вінке о Baldur's Gate 3, порівняннях с CD Projekt та майбутнє студії","Robert Purchese","https://youtu.be/MW846h6FyU4"),
-                new Article("Свен Вінке о Baldur's Gate 3, порівняннях с CD Projekt та майбутнє студії","Robert Purchese","https://youtu.be/MW846h6FyU4"),
-                new Article("Свен Вінке о Baldur's Gate 3, порівняннях с CD Projekt та майбутнє студії","Robert Purchese","https://youtu.be/MW846h6FyU4"),
-            };
-          
+            articles = new List<Article>();
+            users = new List<User>();
+
         }
     }
 }

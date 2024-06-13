@@ -1,16 +1,28 @@
 ﻿using System;
 using WindowsFormsAppInBlogImitation.Users;
 using System.Windows.Forms;
+using WindowsFormsAppInBlogImitation.Blogs;
+using System.Collections.Generic;
+using WindowsFormsAppInBlogImitation.Fixtures;
 
 namespace WindowsFormsAppInBlogImitation
 {
     public partial class Form1 : Form
     {
         private UserService userService;
+        private Blog blog;
         public Form1()
         {
             InitializeComponent();
             userService = new UserService();
+
+            blog = new Blog();
+            List<User> users = (new UserFixture()).createUsers(12);
+            blog.setUsers(users);
+
+            blog.setArticles(ArticleFixture.createArticles(users, 30));
+
+            return;
         }
 
         private void button1_Click(object sender, EventArgs e)

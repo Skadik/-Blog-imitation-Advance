@@ -12,7 +12,7 @@ namespace WindowsFormsAppInBlogImitation.Comments
 
         public void createComent(string name, string description,int stars)
         {
-            comments.Add(new Comment(name, description, stars));
+            //comments.Add(new Comment(name, description, stars));
         }
 
         public void deleteComent(int commentID)

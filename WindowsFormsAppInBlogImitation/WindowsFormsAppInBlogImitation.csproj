@@ -58,6 +58,9 @@
     <Compile Include="Comments\Comment.cs" />
     <Compile Include="Comments\CommentsService.cs" />
     <Compile Include="CreatorForShowArticle\Creator.cs" />
+    <Compile Include="Fixtures\ArticleFixture.cs" />
+    <Compile Include="Fixtures\CommentFixture.cs" />
+    <Compile Include="Fixtures\UserFixture.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>

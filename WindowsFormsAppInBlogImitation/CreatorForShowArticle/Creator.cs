@@ -8,6 +8,7 @@ namespace WindowsFormsAppInBlogImitation.CreatorForShowArticle
         public TextBox createTextBox(int Y, string discription)
         {
             TextBox textBox = new TextBox();
+
             textBox.Location = new System.Drawing.Point(930, Y + 70);
             textBox.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
             textBox.Multiline = true;
@@ -16,6 +17,7 @@ namespace WindowsFormsAppInBlogImitation.CreatorForShowArticle
             textBox.TabIndex = 0;
             textBox.Text = discription;
             textBox.ReadOnly = true;
+
             return textBox;
         }
 

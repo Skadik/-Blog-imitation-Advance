@@ -1,4 +1,8 @@
-﻿namespace WindowsFormsAppInBlogImitation.Users
+﻿using System.Collections.Generic;
+using WindowsFormsAppInBlogImitation.Blogs;
+using WindowsFormsAppInBlogImitation.Comments;
+
+namespace WindowsFormsAppInBlogImitation.Users
 {
     public class User
     {
@@ -7,6 +11,8 @@
         private string name;
         private string email;
         private string password;
+        private List<Article> articles;
+        private List<Comment> comments;
 
         public int getID() =>  ID; 
         public string getName() => name;

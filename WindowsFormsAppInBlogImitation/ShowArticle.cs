@@ -14,14 +14,14 @@ namespace WindowsFormsAppInBlogImitation
         {
             InitializeComponent();
             textBoxs = new List<TextBox>();
-            foreach (Article article in list)
+           /* foreach (Article article in list)
             {
                 showArticl(article);
                 foreach (var coment in article.getCommentsService().getComments())
                 {
                     textBox2.Text = coment.getDescription();
                 }
-            }  
+            }  */
             scalingAll();
         }
 
@@ -30,11 +30,11 @@ namespace WindowsFormsAppInBlogImitation
             InitializeComponent();
             textBoxs = new List<TextBox>();
             showArticl(article);
-            foreach (var coment in article.getCommentsService().getComments())
+            /*foreach (var coment in article.getCommentsService().getComments())
             {
                 label3.Text = coment.getName() + "======" + "Зірки: " + coment.getStars();
                 textBox2.Text = "\n" + coment.getDescription();
-            }
+            }*/
             scalingAll();
         }
 
@@ -44,7 +44,7 @@ namespace WindowsFormsAppInBlogImitation
             TextBox textBox = creator.createTextBox(ShowArticle.Y, article.getDescription());
             Controls.Add(creator.createLabelTitle(ShowArticle.Y, article.getTitle()));
             Controls.Add(creator.createLabelID(ShowArticle.Y, article.getArticleID()));
-            Controls.Add(creator.createLabelUserName(ShowArticle.Y, article.getUserName()));
+            //Controls.Add(creator.createLabelUserName(ShowArticle.Y, article.getUserName()));
             Controls.Add(textBox);
             textBoxs.Add(textBox);
             ShowArticle.Y = textBox.Location.Y + textBox.Size.Height;
