@@ -32,8 +32,8 @@ namespace WindowsFormsAppInBlogImitation
             showArticl(article);
             foreach (var coment in article.getCommentsService().getComments())
             {
-                label3.Text = coment.getName()+"======"+ "Зірки: " + coment.getStars();
-                textBox2.Text += "\n" + coment.getDescription();
+                label3.Text = coment.getName() + "======" + "Зірки: " + coment.getStars();
+                textBox2.Text = "\n" + coment.getDescription();
             }
             scalingAll();
         }

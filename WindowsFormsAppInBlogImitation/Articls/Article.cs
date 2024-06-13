@@ -26,7 +26,11 @@ namespace WindowsFormsAppInBlogImitation.Blogs
             this.userName = userName;
             this.description = description;
             this.comments = new CommentsService();
-            comments.createComent(userName, "Ну це і діч", 4);
+            comments.createComent("Адольф", "Ну це і діч", 1);
+            comments.createComent("GURU", "Чудове інтервью", 5);
+            comments.createComent("Zebra 223", "Чудва гра бажаю ларіанам надхнення і си лробити такі ігри", 5);
+            comments.createComent("dedliparkurkiller228", "увевувевуосас", 3);
+            comments.createComent("molokosos", "Цей чувак в обладунках просто мем", 4);
         }
     }
 }
